@@ -1,0 +1,6 @@
+{
+  "name": "Decent Events Planner",
+  "description": "Luxury 2026 event planning, marquee interior design, and residential interior styling serving Lahore, Sialkot, and nearby areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
