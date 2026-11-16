@@ -86,7 +86,7 @@ export const BUSINESS_INFO = {
   address: 'Pusrur by pass, near Alrazzaq Marquee, Sialkot, Lahore, 51480',
   serviceArea: 'Serves Lahore, Sialkot, Pasrur & nearby areas',
   mapsQueryUrl:
-    'https://www.google.com/maps/search/?api=1&query=Pusrur+by+pass+near+Alrazzaq+Marquee+Sialkot+51480',
+    'https://www.google.com/maps/place/Decent+Events+Planner/@32.324674,74.3754033,17z/data=!3m1!4b1!4m6!3m5!1s0x391edbdd56eb113f:0x8e5fae6a11724a97!8m2!3d32.324674!4d74.3779782!16s%2Fg%2F11zf68_8s_?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D',
 };
 
 export const MOOD_THEMES: MoodThemeOption[] = [
